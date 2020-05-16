@@ -1,4 +1,4 @@
-# How to Transrate application ?
+# How to Translate application ?
 
 1. Check out GitHub or Download File
 
